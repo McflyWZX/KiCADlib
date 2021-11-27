@@ -1,0 +1,13 @@
+Export log for : NGFF_M2_KeyB_APCI0078.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX43Y43D431
+AddingPadStyle P:EX63Y63D631
+AddingPadStyle EF12X61TOP1
+AddingPadStyle EF51X108TOP1
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H45W6
+Adding PatternDef NGFF-SMD_APCI0078-P002A_1
+Adding CompDef NGFF-SMD_APCI0078-P002A_1
+ 
+EndLog

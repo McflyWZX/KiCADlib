@@ -1,0 +1,10 @@
+Export log for : K4B4G1646.Rep
+AddingPadStyle (Default)
+AddingPadStyle EF20X20TOP1
+Adding ViaStyle (Default)
+Adding TextStyle (Default)
+Adding TextStyle T:H45W6
+Adding PatternDef FBGA-96_L13.5-W7.5-R16-C6-P0.80-TL_1
+Adding CompDef FBGA-96_L13.5-W7.5-R16-C6-P0.80-TL_1
+ 
+EndLog
